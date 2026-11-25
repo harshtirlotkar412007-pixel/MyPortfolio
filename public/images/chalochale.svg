@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
+    <rect width="640" height="300" rx="18" fill="#E5EEE8"/>
+    <rect x="24" y="24" width="592" height="42" rx="9" fill="#FFFFFF" opacity=".9"/>
+    <circle cx="48" cy="45" r="7" fill="#567B69"/><circle cx="70" cy="45" r="7" fill="#567B69" opacity=".55"/>
+    <rect x="520" y="37" width="72" height="14" rx="7" fill="#567B69" opacity=".25"/>
+    <text x="54" y="140" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#567B69">ChaloChale</text>
+    <text x="54" y="180" font-family="Arial,sans-serif" font-size="20" fill="#394653">Travel website</text>
+    <rect x="54" y="215" width="130" height="36" rx="18" fill="#567B69"/>
+    <rect x="200" y="215" width="100" height="36" rx="18" fill="#FFFFFF" stroke="#567B69" stroke-width="2"/>
+    </svg>
